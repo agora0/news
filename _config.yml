@@ -1,0 +1,25 @@
+# Site settings
+title: 零新聞
+description: >- # this means to ignore newlines until "baseurl:"
+  Read news on demand.
+baseurl: "/news" # the subpath of your site, e.g. /blog
+url: "https://agora0.gitlab.io" # the hostname & protocol, e.g. http://example.com
+github_username: agorahub
+
+# Build settings
+timezone: Asia/Hong_Kong
+theme: minima
+paginate: 50
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+
+# Items in `exclude:` can be processed if in `include:` list.
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/
