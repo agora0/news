@@ -1,5 +1,5 @@
 ---
-title: 韩联社
+title: Ⓙ
 layout: page
 ---
 {% for category in site.categories %}
