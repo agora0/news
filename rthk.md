@@ -1,6 +1,7 @@
 ---
 title: 🆁🆃🄷🄺
 layout: page
+permalink: /rthk/
 ---
 {% for category in site.categories %}
   {% if category.first == "rthk" %}

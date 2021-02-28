@@ -1,6 +1,7 @@
 ---
 title: 路透社
 layout: page
+permalink: /reuters/
 ---
 {% for category in site.categories %}
   {% if category.first == "reuters" %}

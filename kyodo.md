@@ -1,6 +1,7 @@
 ---
 title: 共同社
 layout: page
+permalink: /kyodo/
 ---
 {% for category in site.categories %}
   {% if category.first == "kyodo" %}

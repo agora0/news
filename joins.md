@@ -1,6 +1,7 @@
 ---
 title: Ⓙ
 layout: page
+permalink: /joins/
 ---
 {% for category in site.categories %}
   {% if category.first == "joins" %}

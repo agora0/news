@@ -1,6 +1,7 @@
 ---
 title: 🆁🄵🅸
 layout: page
+permalink: /rfi/
 ---
 {% for category in site.categories %}
   {% if category.first == "rfi" %}

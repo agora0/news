@@ -1,6 +1,7 @@
 ---
 title: Ⓓ🅦
 layout: page
+permalink: /dw/
 ---
 {% for category in site.categories %}
   {% if category.first == "dw" %}

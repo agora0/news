@@ -1,6 +1,7 @@
 ---
 title: Ⓒ🅝🅐
 layout: page
+permalink: /cna/
 ---
 {% for category in site.categories %}
   {% if category.first == "cna" %}

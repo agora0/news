@@ -1,6 +1,7 @@
 ---
 title: 🅱🅱🅲
 layout: page
+permalink: /bbc/
 ---
 {% for category in site.categories %}
   {% if category.first == "bbc" %}
