@@ -1,6 +1,9 @@
 ---
 layout: page
+title:  NEWS⓪
 permalink: /readme/
+comments_repo: agorahub/news0
+comments_id: 3
 ---
 
 Read news on demand.
@@ -32,6 +35,8 @@ $ JEKYLL_ENV=production bundle exec jekyll build
 ## List of Features
 
 - [x] Batch and Automate - Check out the [issue comment](https://github.com/agorahub/news0/issues/1#issuecomment-597540617)
+
+{% include comments.html %}
 
 ## Disclaimer
 
