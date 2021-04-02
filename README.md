@@ -8,9 +8,9 @@ comments_id: 3
 
 Read news on demand.
 
-| 🅱🅱🅲 | Ⓒ🅝🅐 | Ⓓ🅦 | Ⓙ | 共同社 | 路透社 | 🆁🄵🅸 | 🆁🆃🄷🄺 |
-| -- | -- | -- | -- | -- | -- | -- | -- |
-| [![BBC](https://raw.githubusercontent.com/agorahub/news0/main/img/portfolio/bbc.png)](https://www.bbc.com/zhongwen/simp) | [![CNA](https://raw.githubusercontent.com/agorahub/news0/main/img/portfolio/cna.png)](https://www.cna.com.tw) | [![DW](https://raw.githubusercontent.com/agorahub/news0/main/img/portfolio/dw.png)](https://www.dw.com/zh) | [![JOINS](https://raw.githubusercontent.com/agorahub/news0/main/img/portfolio/joins.png)](https://chinese.joins.com) | [![KYODO](https://raw.githubusercontent.com/agorahub/news0/main/img/portfolio/kyodo.png)](https://china.kyodonews.net) | [![REUTERS](https://raw.githubusercontent.com/agorahub/news0/main/img/portfolio/reuters.png)](https://cn.reuters.com) | [![RFI](https://raw.githubusercontent.com/agorahub/news0/main/img/portfolio/rfi.png)](https://www.rfi.fr/cn/) | [![RTHK](https://raw.githubusercontent.com/agorahub/news0/main/img/portfolio/rthk.png)](https://news.rthk.hk/rthk/ch/) |
+| [![BBC](https://raw.githubusercontent.com/agorahub/news0/main/img/portfolio/bbc.png)](https://www.bbc.com/zhongwen/simp) | [![CNA](https://raw.githubusercontent.com/agorahub/news0/main/img/portfolio/cna.png)](https://www.cna.com.tw) | [![DW](https://raw.githubusercontent.com/agorahub/news0/main/img/portfolio/dw.png)](https://www.dw.com/zh) | [![REUTERS](https://raw.githubusercontent.com/agorahub/news0/main/img/portfolio/reuters.png)](https://cn.reuters.com) |
+| -- | -- | -- | -- |
+| [![KYODO](https://raw.githubusercontent.com/agorahub/news0/main/img/portfolio/kyodo.png)](https://china.kyodonews.net) | [![JOINS](https://raw.githubusercontent.com/agorahub/news0/main/img/portfolio/joins.png)](https://chinese.joins.com) | [![RFI](https://raw.githubusercontent.com/agorahub/news0/main/img/portfolio/rfi.png)](https://www.rfi.fr/cn/) | [![RTHK](https://raw.githubusercontent.com/agorahub/news0/main/img/portfolio/rthk.png)](https://news.rthk.hk/rthk/ch/) |
 
 ## Test and Deploy
 
