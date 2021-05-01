@@ -10,7 +10,7 @@ Read news on demand.
 
 | [![BBC](https://raw.githubusercontent.com/agorahub/news0/main/img/portfolio/bbc.png)](https://www.bbc.com/zhongwen/simp) | [![CNA](https://raw.githubusercontent.com/agorahub/news0/main/img/portfolio/cna.png)](https://www.cna.com.tw) | [![DW](https://raw.githubusercontent.com/agorahub/news0/main/img/portfolio/dw.png)](https://www.dw.com/zh) | [![REUTERS](https://raw.githubusercontent.com/agorahub/news0/main/img/portfolio/reuters.png)](https://cn.reuters.com) |
 | -- | -- | -- | -- |
-| [![KYODO](https://raw.githubusercontent.com/agorahub/news0/main/img/portfolio/kyodo.png)](https://china.kyodonews.net) | [![JOINS](https://raw.githubusercontent.com/agorahub/news0/main/img/portfolio/joins.png)](https://chinese.joins.com) | [![RFI](https://raw.githubusercontent.com/agorahub/news0/main/img/portfolio/rfi.png)](https://www.rfi.fr/cn/) | [![RTHK](https://raw.githubusercontent.com/agorahub/news0/main/img/portfolio/rthk.png)](https://news.rthk.hk/rthk/ch/) |
+| [![KYODO](https://raw.githubusercontent.com/agorahub/news0/main/img/portfolio/kyodo.png)](https://china.kyodonews.net) | [![AJ](https://raw.githubusercontent.com/agorahub/news0/main/img/portfolio/aj.png)](https://chinese.aljazeera.net) | [![RFI](https://raw.githubusercontent.com/agorahub/news0/main/img/portfolio/rfi.png)](https://www.rfi.fr/cn/) | [![RTHK](https://raw.githubusercontent.com/agorahub/news0/main/img/portfolio/rthk.png)](https://news.rthk.hk/rthk/ch/) |
 
 ## Test and Deploy
 
