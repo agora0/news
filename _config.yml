@@ -7,7 +7,7 @@ url: "https://agora0.gitlab.io" # the hostname & protocol, e.g. http://example.c
 github_username: agorahub
 
 # Build settings
-timezone: Asia/Hong_Kong
+timezone: Asia/Singapore
 theme: minima
 paginate: 50
 plugins:
