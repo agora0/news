@@ -10,6 +10,8 @@ github_username: agorahub
 timezone: Asia/Singapore
 theme: minima
 paginate: 50
+feed:
+  posts_limit: 100
 plugins:
   - jekyll-feed
   - jekyll-paginate
