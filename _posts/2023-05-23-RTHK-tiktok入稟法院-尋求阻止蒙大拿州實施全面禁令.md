@@ -6,7 +6,7 @@ link: https://news.rthk.hk/rthk/ch/component/k2/1701737-20230523.htm
 categories: rthk
 ---
 
-中國短片分享程式TikTok入稟法院，要求阻止蒙大拿州對TikTok實施全面禁令。
+中國短片分享程式TikTok入稟美國蒙大拿州地方法院，要求阻止蒙大拿州對TikTok實施全面禁令。
 
 TikTok表示，這項史無前例、將於明年開始實施的禁令，侵犯了受憲法保護的言論自由權，並且是基於毫無根據的猜測。
 
