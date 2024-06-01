@@ -1,9 +1,8 @@
 ---
-#title: 🅽🆈🆃
+title: 🅽🆈🆃
 layout: page
 permalink: /nyt/
 ---
-<h2>🅽🆈🆃</h2>
 {% for category in site.categories %}
   {% if category.first == "nyt" %}
   <div>
